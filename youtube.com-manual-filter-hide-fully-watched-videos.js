@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      15.0
 // @description  Click button to hide ALL fully watched videos (no timestamp) currently on page. No background tasks.
-// @author       You
+// @author       Fahad
 // @match        https://www.youtube.com/*
 // @grant        GM_addStyle
 // ==/UserScript==
